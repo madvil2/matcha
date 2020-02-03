@@ -1,0 +1,50 @@
+ 6934  brew install mysql
+ 6939  python3 --version
+ 6945  cd matcha
+ 6947  pip3 install requirments.txt
+ 6948  pip3 install < requirments.txt
+ 6949  open requirments.txt
+ 6950  python3 -m venv env
+ 6951  source env/bin/activate
+ 6952  pip3 install flask flask-socketio python-mysqlconnector
+ 6953  pip3 install mysql-connector
+ 6954  pip3 install pysyge geopy geocoder flask-mysqldb
+ 6955  ls
+ 6956  python3 main.py
+ 6957  pip3 freeze
+ 6958  pip3 install flask
+ 6959  pip3 freeze
+ 6960  pip3 install flask-mysqldb
+ 6961  python3 main.py
+ 6962  pip3 install flask_mysqldb
+ 6963  pip3 freeze
+ 6964  pip3 install mysqlclient
+ 6965  pip install --upgrade setuptools
+ 6966  pip3 install mysqlclient
+ 6967  pip3 install --upgrade pip
+ 6968  pip3 install mysqlclient
+ 6969  python3 main.py
+ 6970  pip3 install flask_mysqldb
+ 6971  python3 main.py
+ 6972  pip3 install flask_socketio
+ 6973  python3 main.py
+ 6974  mysql
+ 6975  mysql -uroot
+ 6976  mysql -u root
+ 6977  mysql -uroot
+ 6978  mysql -u root
+ 6979  mysql -u root -p
+ 6980  ls
+ 6981  cd Projects
+ 6982  cd Matcha
+ 6983  ls
+ 6984  cd matcha
+ 6985  ls
+ 6986  source env/bin/activate
+ 6987  python3 main.py
+ 6988  pip3 install dateutil
+ 6989  pip3 install python-dateutil
+ 6990  python3 main.py
+ 6991  pip3 install geopy
+ 6992  pip3 install geocoder
+ 6993  python3 main.py
